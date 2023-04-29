@@ -1,0 +1,6 @@
+.pytest_cache/
+dataset/*.csv
+dataset/*.zip
+src/__py*
+tests/__py*
+.vscode
